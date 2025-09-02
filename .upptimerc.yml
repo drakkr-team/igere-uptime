@@ -6,11 +6,9 @@ sites:
   - name: Dashboard
     url: https://admin.igere.ch
   - name: Copro
-    url: https://app.igere.ch
+    url: https://app.staging.igere.ch
   - name: Strapi
     url: https://strapi.igere.ch
-  - name: Test Error V2
-    url: https://error.v2.igere.ch
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
