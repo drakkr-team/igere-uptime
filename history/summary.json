@@ -59,16 +59,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/error.v2.igere.ch.ico",
     "slug": "test-error-v2",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "6.33%",
+    "uptimeDay": "6.33%",
+    "uptimeWeek": "6.33%",
+    "uptimeMonth": "6.33%",
+    "uptimeYear": "6.33%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-02": 0
+    }
   }
 ]
