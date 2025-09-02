@@ -6,7 +6,7 @@ sites:
   - name: Dashboard
     url: https://admin.igere.ch
   - name: Copro
-    url: https://app.staging.igere.ch
+    url: https://app.igere.ch
   - name: Strapi
     url: https://strapi.igere.ch
 
