@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 780,
-    "timeDay": 827,
-    "timeWeek": 721,
-    "timeMonth": 780,
-    "timeYear": 780,
+    "time": 790,
+    "timeDay": 960,
+    "timeWeek": 758,
+    "timeMonth": 790,
+    "timeYear": 790,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.igere.ch.ico",
     "slug": "copro",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 897,
-    "timeDay": 713,
-    "timeWeek": 789,
-    "timeMonth": 897,
-    "timeYear": 897,
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 901,
+    "timeDay": 976,
+    "timeWeek": 837,
+    "timeMonth": 901,
+    "timeYear": 901,
     "dailyMinutesDown": {
       "2025-09-02": 2
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 596,
-    "timeDay": 600,
-    "timeWeek": 501,
-    "timeMonth": 596,
-    "timeYear": 596,
+    "time": 603,
+    "timeDay": 726,
+    "timeWeek": 542,
+    "timeMonth": 603,
+    "timeYear": 603,
     "dailyMinutesDown": {}
   }
 ]
