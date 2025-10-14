@@ -4,11 +4,11 @@
     "url": "https://admin.igere.ch",
     "icon": "https://icons.duckduckgo.com/ip3/admin.igere.ch.ico",
     "slug": "dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "99.06%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.25%",
-    "uptimeMonth": "99.60%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "98.23%",
+    "uptimeMonth": "99.59%",
     "uptimeYear": "99.06%",
     "time": 832,
     "timeDay": 1514,
@@ -16,6 +16,7 @@
     "timeMonth": 850,
     "timeYear": 832,
     "dailyMinutesDown": {
+      "2025-10-14": 1,
       "2025-10-10": 177,
       "2025-09-13": 385
     }
@@ -25,10 +26,10 @@
     "url": "https://app.igere.ch",
     "icon": "https://icons.duckduckgo.com/ip3/app.igere.ch.ico",
     "slug": "copro",
-    "status": "up",
+    "status": "down",
     "uptime": "99.06%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.25%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "98.24%",
     "uptimeMonth": "99.60%",
     "uptimeYear": "99.06%",
     "time": 937,
@@ -37,6 +38,7 @@
     "timeMonth": 944,
     "timeYear": 937,
     "dailyMinutesDown": {
+      "2025-10-14": 1,
       "2025-10-10": 176,
       "2025-09-13": 384,
       "2025-09-02": 2
@@ -47,7 +49,7 @@
     "url": "https://strapi.igere.ch",
     "icon": "https://icons.duckduckgo.com/ip3/strapi.igere.ch.ico",
     "slug": "strapi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.25%",
@@ -59,6 +61,7 @@
     "timeMonth": 759,
     "timeYear": 706,
     "dailyMinutesDown": {
+      "2025-10-14": 0,
       "2025-10-10": 176,
       "2025-09-13": 384
     }
